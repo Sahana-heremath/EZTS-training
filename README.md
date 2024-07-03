@@ -17,3 +17,5 @@ Day 15: KMP algorithm-lps,Tower of Hanoi</p>
 Day 16: Hashing</p>
 Day 17: leetcode problems</p>
 Day 18:Double Hashing,N-queen problem,Availability of denominations</p>
+Day 19:Heap and heap sort</p>
+
